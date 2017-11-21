@@ -9,3 +9,5 @@ Double click on the "Multipatch solar radiation" ersi addin file and follow the 
 
 ## Usage and Description of the GUI
 A snap shot of the tool GUI is given in the following figure. At first the user should decide a method on which the dividation will take place. A supervised method means that the user should select seed point for each of the equal regions. For example if the user wants two equal regions as an output he/she should select two features manually and the region growing will in fact starts from that features on. Unsupervised methos on the other hand does not require any input from the user for seed point selection.
+
+![] (https://github.com/Md-ImranHossain/Equal-Region-Tool/blob/master/Equal%20Region/Images/Capture.PNG)
