@@ -5,7 +5,7 @@ This tool divides a set of geographic features of the same class representing a 
 This tool has been developed using C# and ArcObjects library as an add-on for ArcGIS 10 or above. ArcMap has been chosen as a target platform for the implementation of the tool. 
 
 ## Installation
-Double click on the "Multipatch solar radiation" ersi addin file and follow the instruction. After installation open the ArcMap then go to Customize>Add-in Manager>customize>Commands>Add-In Controls and drag the "My Button" from commands box to somewhere in the ArcMap menu bars. After that click on the "My Button" button
+Double click on the "EqualRegion" ersi addin file and follow the instruction. After installation open the ArcMap then go to Customize>Add-in Manager>customize>Commands>Add-In Controls and drag the "My Button" from commands box to somewhere in the ArcMap menu bars. After that click on the "My Button" button
 
 ## Usage and Description of the GUI
 A snap shot of the tool GUI is given in the following figure. At first the user should decide a method on which the dividation will take place. A supervised method means that the user should select seed point for each of the equal regions. For example if the user wants two equal regions as an output he/she should select two features manually and the region growing will in fact starts from that features on. Unsupervised methos on the other hand does not require any input from the user for seed point selection.
