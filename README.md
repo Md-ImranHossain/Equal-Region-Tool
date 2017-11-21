@@ -16,3 +16,6 @@ The user also have specijy the layer on which the tool will operate and more inp
 
 ![](https://github.com/Md-ImranHossain/Equal-Region-Tool/blob/master/Equal%20Region/Images/Capture1.PNG) ![](https://github.com/Md-ImranHossain/Equal-Region-Tool/blob/master/Equal%20Region/Images/Capture2.PNG)
 
+Each feature (polygon) in both figures represents residential buildings and has an attribute called population (no. of residents). 
+In the first figure, the expected number of equitable regions was 3 based on the population attribute which means the feature set has to be divided into 3 non-overlapping regions so that the total population for each region remains approximately equal. In figure 7 the expected region number was 7. Both figures show a distinct division of the feature set into regions. None of the region in both figure overlap with others. 
+
