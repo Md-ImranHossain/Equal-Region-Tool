@@ -1,0 +1,20 @@
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\Equal Region.dll
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\Equal Region.pdb
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal Region.csprojResolveAssemblyReference.cache
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal_Region.Form1.resources
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal_Region.Properties.Resources.resources
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal Region.csproj.GenerateResource.Cache
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal Region.dll
+c:\users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\obj\Debug\Equal Region.pdb
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.ArcMapUI.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Carto.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Desktop.AddIns.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Framework.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.System.dll
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Carto.xml
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Framework.xml
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.System.xml
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\ESRI.ArcGIS.ArcMapUI.xml
+C:\Users\hossain\documents\visual studio 2010\Projects\Equal Region\Equal Region\bin\Debug\Equal Region.esriAddIn
