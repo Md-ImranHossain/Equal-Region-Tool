@@ -14,5 +14,7 @@ A snap shot of the tool GUI is given in the following figure. At first the user 
 
 The user also have specijy the layer on which the tool will operate and more inportantly the attribute on with the equal region will be build. Finaly the user should also put a tolerence in meter and start the tool. A couple of outputs of the tool are given below.
 
-![]()
+![](https://github.com/Md-ImranHossain/Equal-Region-Tool/blob/master/Equal%20Region/Images/Capture1.PNG)
+
+![](https://github.com/Md-ImranHossain/Equal-Region-Tool/blob/master/Equal%20Region/Images/Capture2.PNG)
 
