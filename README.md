@@ -1,5 +1,5 @@
 # Equal-Region-Tool
-This tool divides a set of geographic features of the same class representing a geographic area in to several subsets/regions so that the sum of a numeric attribute of the features in each subset/region remains almost equal and the bounding polygon of regions do not overlap with each other.
+This tool divides a set of geographic features of the same class representing a geographic area in to several subsets/regions so that the sum of a numeric attribute of the features in each subset/region remains almost equal and the bounding polygon of regions do not overlap with each other. For example a set of polygons representing buildings in a residential area could divided into 5 parts so that the total floor space of each of the part (group of buildings) is equal. 
 
 ## Software Requirements
 This tool has been developed using C# and ArcObjects library as an add-on for ArcGIS 10 or above. ArcMap has been chosen as a target platform for the implementation of the tool. 
